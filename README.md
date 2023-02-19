@@ -18,12 +18,3 @@ Projenin Yayınlanmış Olduğu Uzak Sunucu : [Kalite Sınıflandırma ](https:/
 
 
 
-## Geliştirici
-
-👤 **Hamdi DAMAR**
-
-- [Web Site](http://hamdidamar.com/?i=1)
-- [LinkedIn](https://www.linkedin.com/in/hamdi-damar-bb6a8b159/)
-- [Medium](https://medium.com/@damar14607)
-- [GitHub](https://github.com/hamdidamar)
-- [Twitter](https://twitter.com/DamarHamdi)
